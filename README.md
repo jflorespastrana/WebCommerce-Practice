@@ -8,6 +8,6 @@ Robots.txt: https://jafp31.000webhostapp.com/robots.txt
 
 # Style Guide
 
-Español: 
+Español: https://github.com/jflorespastrana/WebCommerce-Practice/blob/main/Style%20Guide/Gu%C3%ADa%20Estilos%20-%20Espa%C3%B1ol.pdf
 
 English: 
